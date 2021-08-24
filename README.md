@@ -1,6 +1,6 @@
 ## Olá eu sou o João Lucas 👋
 
-- 🌱 Estudando CSS, HTML e Javascript
+- 🌱 Estudando CSS, HTML, Javascript, React, NodeJs e MongoDB
 - ⚡ Fato engraçado: o kenp do user só faz parte da minha imaginação e não do meu nome real
 
 <div>
