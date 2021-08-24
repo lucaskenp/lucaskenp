@@ -10,11 +10,12 @@
 </div>
   
 <div style="display: inline_block"><br>
-  <img align="center" alt="Lucas-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Lucas-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Lucas-React" height="30" width="40" src="https://img.icons8.com/color/48/000000/mongodb.png"/>
+  <img align="center" alt="Lucas-MongoDB" height="30" width="40" src="https://img.icons8.com/color/48/000000/mongodb.png"/>
+  <img align="center" alt="Lucas-NodeJs" height="30" width="40" src="https://img.icons8.com/color/50/000000/nodejs.png"/>
   <img align="center" alt="Lucas-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Lucas-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Lucas-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="right" alt="Lucas-GIF" src="https://media.discordapp.net/attachments/530081636348592130/877010609533767751/ezgif.com-resize_1.gif">
   
 </div>
