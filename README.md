@@ -1,7 +1,7 @@
 ## Olá eu sou o João Lucas 👋
 
 - 🌱 Estudando CSS, HTML, Javascript, React, NodeJs e MongoDB
-- 🔩 Já participei bastante de projetos de hardware, envolvendo Arduino, protocolos de comunicação e até mesmo sistemas microprocessados. 
+- 🔩 Já participei bastante de projetos de hardware, envolvendo Arduino, protocolos de comunicação e sistemas de mais baixo nível mexendo diretamente com microcontrolador. 
 - ⚡ Fato engraçado: o kenp do user só faz parte da minha imaginação e não do meu nome real
 
 <div>
