@@ -2,8 +2,9 @@
 
 - 🌱 Estudando  C/C++, Arm STM32  e TDD voltado para sistemas embarcados e estudando  CSS, HTML, Javascript, React, NodeJs e MongoDB na parte de Web. 
 - 🔩 Já participei bastante de projetos de embarcados envolvendo Arduino, protocolos de comunicação, tecnologia LoRa e sistemas de mais baixo nível mexendo diretamente com microcontrolador. 
-- ⚡ Fato engraçado: o kenp do user só faz parte da minha imaginação e não do meu nome real
-
+- 💻 Tenho conhecimento em software de modelagem 3D como o Fusion 360
+- ⚡ Fato engraçado: o kenp do user só faz parte da minha imaginação e não do meu nome real.
+- 🎬 Curto assistir séries e animes no meu tempo livre, além de jogar algum jogo com os amigos.
 <div>
   <a href="https://github.com/lucaskenp">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucaskenp&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
