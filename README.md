@@ -1,7 +1,7 @@
 ## Olá eu sou o João Lucas 👋
 
-- 🌱 Estudando  C/C++, TDD e sistemas embarcados na parte de hardware e estudando  CSS, HTML, Javascript, React, NodeJs e MongoDB na parte de Web. 
-- 🔩 Já participei bastante de projetos de hardware envolvendo Arduino, protocolos de comunicação e sistemas de mais baixo nível mexendo diretamente com microcontrolador. 
+- 🌱 Estudando  C/C++, Arm STM32  e TDD voltado para sistemas embarcados e estudando  CSS, HTML, Javascript, React, NodeJs e MongoDB na parte de Web. 
+- 🔩 Já participei bastante de projetos de embarcados envolvendo Arduino, protocolos de comunicação, tecnologia LoRa e sistemas de mais baixo nível mexendo diretamente com microcontrolador. 
 - ⚡ Fato engraçado: o kenp do user só faz parte da minha imaginação e não do meu nome real
 
 <div>
