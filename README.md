@@ -1,6 +1,6 @@
 ## Olá eu sou o João Lucas 👋
 
-- 🌱 Estudando  C/C++ e Arm STM32 voltado para sistemas embarcados e estudando  CSS, HTML, Javascript, React, NodeJs, MongoDB e TDD na parte de Web. 
+- 🌱 Estudando  C/C++ e Arm STM32 voltado para sistemas embarcados.
 - 🔩 Já participei bastante de projetos de embarcados envolvendo Arduino, protocolos de comunicação, tecnologia LoRa e sistemas de mais baixo nível mexendo diretamente com microcontrolador. 
 - 💻 Tenho conhecimento em software de modelagem 3D como o Fusion 360.
 - ⚡ Fato engraçado: o kenp do user só faz parte da minha imaginação e não do meu nome real.
