@@ -1,7 +1,8 @@
 ## Olá eu sou o João Lucas 👋
-
+- 👨‍💻 Aprendendo mais sobre o Desenvolvimento Web Full Stack.
+- 🕵️‍♂️ Estudando NodeJs, React e PostgreSQL
 - 🌱 Estudando  C/C++ e Arm STM32 voltado para sistemas embarcados.
-- 🔩 Já participei bastante de projetos de embarcados envolvendo Arduino, protocolos de comunicação, tecnologia LoRa e sistemas de mais baixo nível mexendo diretamente com microcontrolador. 
+- 🔩 Tenho experiência com bastante de projetos de embarcados envolvendo Arduino, protocolos de comunicação, tecnologia LoRa e sistemas de mais baixo nível mexendo diretamente com microcontrolador. 
 - 💻 Tenho conhecimento em software de modelagem 3D como o Fusion 360.
 - 🎬 Curto assistir séries e animes no meu tempo livre, além de jogar algum jogo com os amigos.
 <div>
@@ -11,9 +12,12 @@
 </div>
   
 <div style="display: inline_block"><br>
-  <img align="center" alt="Lucas-React" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/c.svg">
-  <img align="center" alt="Lucas-MongoDB" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg"/>
-  <img align="center" alt="Lucas-NodeJs" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg"/>
+  <img align="center" alt="Lucas-C" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/c.svg">
+  <img align="center" alt="Lucas-C++" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg"/>
+  <img align="center" alt="Lucas-Git" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg"/>
+  <img align="center" alt="Lucas-Js" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/javascript.svg"/>
+  <img align="center" alt="Lucas-React"  width="40" src="https://img.icons8.com/bubbles/40/undefined/react.png"/>
+  <img align="center" alt="Lucas-NodeJs" width="40" src="https://img.icons8.com/fluency/48/undefined/node-js.png"/>
   <img align="right" alt="Lucas-GIF" src="https://media.discordapp.net/attachments/530081636348592130/877010609533767751/ezgif.com-resize_1.gif">
   
 </div>
