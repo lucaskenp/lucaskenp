@@ -11,14 +11,13 @@
 </div>
   
 <div style="display: inline_block"><br>
-  <img align="center" alt="Lucas-C" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/c.svg">
+  <img align="center" alt="Lucas-C" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/c.svg"/>
   <img align="center" alt="Lucas-C++" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg"/>
   <img align="center" alt="Lucas-Git" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg"/>
   <img align="center" alt="Lucas-Js" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/javascript.svg"/>
   <img align="center" alt="Lucas-React"  width="40" src="https://img.icons8.com/bubbles/40/undefined/react.png"/>
   <img align="center" alt="Lucas-NodeJs" width="40" src="https://img.icons8.com/fluency/48/undefined/node-js.png"/>
-  <img align="right" alt="Lucas-GIF" src="https://media.discordapp.net/attachments/530081636348592130/877010609533767751/ezgif.com-resize_1.gif">
-  
+  <img align="right" alt="Lucas-GIF" src="https://media.discordapp.net/attachments/530081636348592130/877010609533767751/ezgif.com-resize_1.gif"/>
 </div>
   
 ##
