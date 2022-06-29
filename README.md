@@ -4,6 +4,7 @@
 - 🌱 Estudando  C/C++ e Arm STM32 voltado para sistemas embarcados.
 - 🔩 Tenho experiência com bastante de projetos de embarcados envolvendo Arduino, protocolos de comunicação, tecnologia LoRa e sistemas de mais baixo nível mexendo diretamente com microcontrolador. 
 - 🎬 Curto assistir séries e animes no meu tempo livre, além de jogar algum jogo de fps com amigos.
+
 <div>
   <a href="https://github.com/lucaskenp">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucaskenp&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
