@@ -1,6 +1,6 @@
 ## Olá eu sou o João Lucas 👋
 - 👨‍💻 Aprendendo mais sobre o Desenvolvimento Web Full Stack.
-- 🕵️‍♂️ Estudando NodeJs, React e PostgreSQL
+- 🕵️‍♂️ Estudando NodeJs, React e MySQL
 - 🌱 Estudando  C/C++ e Arm STM32 voltado para sistemas embarcados.
 - 🔩 Tenho experiência com bastante projetos de embarcados envolvendo Arduino, protocolos de comunicação, tecnologia LoRa e sistemas de mais baixo nível mexendo diretamente com microcontrolador. 
 - 🎬 Curto assistir séries e animes no meu tempo livre, além de jogar algum jogo de fps com amigos.
