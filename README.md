@@ -1,9 +1,11 @@
 ## Olá eu sou o João Lucas 👋
-- 👨‍💻 Aprendendo mais sobre o Desenvolvimento de Firmware.
-- 🕵️‍♂️ Estudando Sistemas Embarcados.
-- 🌱 Estudando  C/C++ e Arm STM32 voltado para sistemas embarcados.
-- 🔩 Tenho experiência com bastantes projetos de embarcados envolvendo Arduino, protocolos de comunicação, tecnologia LoRa e sistemas de mais baixo nível mexendo diretamente com microcontrolador. 
-- 🎬 Curto assistir séries e animes no meu tempo livre, além de jogar algum jogo de fps com amigos.
+- 👨‍💻 Desenvolvedor de Firmware.
+- 🕵️‍♂️ Experiência em Sistemas Embarcados Bare Metal e Sistemas de Tempo Real.
+- 🕵️‍♂️ Experiência em  C/C++ e Arm Cortex-M STM32.
+- 🕵️‍♂️ Experiência em testes automatizados com Python.
+- 🕵️‍♂️ Experiência em scripts bash e shell.
+- 🕵️‍♂️ Experiência em Linux Embarcado.
+- 🔩 Tenho experiência com bastantes projetos de embarcados envolvendo STM32 Arm Cortex-M, protocolos de comunicação, tecnologia LoRa, NB-IoT e sistemas de mais baixo nível mexendo diretamente com microcontrolador. 
 
 <div>
   <a href="https://github.com/lucaskenp">
